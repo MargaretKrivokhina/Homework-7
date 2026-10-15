@@ -242,6 +242,11 @@ td {
   font-size: 17px;
 }
 
+.th-name,
+.th-points {
+  vertical-align: top;
+}
+
 #books-price,
 #items-availability,
 #books-competitions {
